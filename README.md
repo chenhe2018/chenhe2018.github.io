@@ -4,7 +4,7 @@
 
 Hexo for Linux 16.04
 
-
+#### install hexo
 ```
 > sudo apt install nodejs-legacy
 
@@ -14,9 +14,15 @@ Hexo for Linux 16.04
 ```
 https://hexo.io/zh-cn/docs/index.html
 
+#### prepare
+
 ```
 >mkdir github.web
 >cd github.web
 >sudo hexo init
 >sudo npm install
+```
+#### start server
+```
+>sudo hexo server
 ```
