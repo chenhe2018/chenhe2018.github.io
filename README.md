@@ -13,3 +13,10 @@ Hexo for Linux 16.04
 > sudo npm install -g hexo
 ```
 https://hexo.io/zh-cn/docs/index.html
+
+```
+>mkdir github.web
+>cd github.web
+>sudo hexo init
+>sudo npm install
+```
